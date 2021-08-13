@@ -1,0 +1,25 @@
+Answers
+1)    Valid ->=,//=,&
+invalid=<>
+
+2)    True
+        False
+        False
+
+3)    Power operator --**
+       Floor Division--//
+Order of 
+precedence - paranthesis, exponentiation, multiplication,division,subtraction.
+22%3=1
+NO, mathematical operation cannot be performed on string
+
+4)    Operators are special symbol that designate that some sort of computation should be performed 
+
+5)    7 types of operators
+Arithmetic
+Logical
+Comparision
+Assignment
+Bitwise
+Identity
+Membership
